@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "anio": "2019",
+        "color": "azul",
+        "peso": "13",
+        "tipo": "montañera",
+        "precio": "50000",
+        "vendida": "no"
+    },
+    {
+        "id": 2,
+        "modelo": "Shifter",
+        "rodado": "FM18F29AM210",
+        "anio": "2020",
+        "color": "verde",
+        "peso": "16",
+        "tipo": "paseo",
+        "precio": "30000",
+        "vendida": "si"
+    },
+    {
+        "id": 3,
+        "modelo": "Olmo",
+        "rodado": "15",
+        "anio": "2020",
+        "color": "negro",
+        "peso": "25",
+        "tipo": "triatlón",
+        "precio": "25000",
+        "vendida": "si"
+    },
+    {
+        "id": 4,
+        "modelo": "Halley",
+        "rodado": "sunshine",
+        "anio": "2023",
+        "color": "lila",
+        "peso": "27",
+        "tipo": "retro",
+        "precio": "15000",
+        "vendida": "no"
+    },
+    {
+        "id": 5,
+        "marca": "Battle",
+        "modelo": "Ruta",
+        "rodado": "29",
+        "anio": "2023",
+        "color": "verde agua",
+        "peso": "16",
+        "tipo": "triatlón",
+        "precio": "100000",
+        "vendida": "no"
+    }
+]

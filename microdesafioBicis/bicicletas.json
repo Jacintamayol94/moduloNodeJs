@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 28,
+        "anioFabricacion": 2021,
+        "color": "Negro",
+        "pesoKg": 15,
+        "tipo": "Paseo",
+        "precio": 1500,
+        "vendida": false
+    },
+    {
+        "id": 2,
+        "marca": "Fierce",
+        "modelo": "techno",
+        "rodado": 26,
+        "anioFabricacion": 2019,
+        "color": "Celeste",
+        "pesoKg": 13,
+        "tipo": "Montañera",
+        "precio": 3000,
+        "vendida": false
+    },
+    {
+        "id": 3,
+        "marca": "TopMega",
+        "modelo": "Ruta",
+        "rodado": 29,
+        "anioFabricacion": 2020,
+        "color": "rojo",
+        "pesoKg": 17,
+        "tipo": "Retro",
+        "precio": 7000,
+        "vendida": false
+        },
+    {
+        "id": 4,
+        "marca": "Battle",
+        "modelo": "Sunshine",
+        "rodado": 16,
+        "anio": 2019,
+        "color": "Verde",
+        "peso": 17,
+        "tipo": "Triatlón",
+        "precio": 250,
+        "vendida": false
+    },
+    {
+        "id": 5,
+        "marca": "TopMega",
+        "modelo": "Techno",
+        "rodado": 28,
+        "anio": 2021,
+        "color": "Gris",
+        "peso": 15,
+        "tipo": "Paseo",
+        "precio": 170,
+        "vendida": false
+    },
+    {
+        "id": 6,
+        "marca": "SLP",
+        "modelo": "Ruta",
+        "rodado": 29,
+        "anio": 2020,
+        "color": "Naranja",
+        "peso": 16,
+        "tipo": "Montañera",
+        "precio": 220,
+        "vendida": false
+    },
+    {
+        "id": 7,
+        "marca": "Halley",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "anio": 2022,
+        "color": "Rosa",
+        "peso": 13,
+        "tipo": "Paseo",
+        "precio": 190,
+        "vendida": false
+    },
+    {
+        "id": 8,
+        "marca": "Fixie",
+        "modelo": "FM18F29AM210",
+        "rodado": 26,
+        "anio": 2021,
+        "color": "Amarillo",
+        "peso": 15,
+        "tipo": "Retro",
+        "precio": 160,
+        "vendida": false
+    }
+]

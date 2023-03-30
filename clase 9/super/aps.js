@@ -1,0 +1,1 @@
+let heroina = require ('./index[]');
